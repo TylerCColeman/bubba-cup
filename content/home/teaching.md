@@ -21,5 +21,11 @@ weight = 30
 
 _[Harry S Truman School of Government & Public Affairs](https://politicalscience.missouri.edu)_
 
-+ Peacekeeping and Intervention, POLSC 4415 - Graduate Instructor, Spring 2022
-+ Introduction to International Relations, POLSC 1400 - Graduate Instructor, Fall 2021
++ Politics of Cybersecurity, POLSC 4413 - Instructor, Fall 2022
++ Peacekeeping and Intervention, POLSC 4415 - Instructor, Spring 2022; Spring 2023
++ Introduction to International Relations, POLSC 1400 - Instructor, Fall 2021; Summer 2022
+
+<h2>High Point University</h2>
+
++ International Relations, PSC 2710 - Instructor, Fall 2023; Spring 2024
++ Comparing Foreign Political Systems, PSC 2510 - Instructor, Fall 2023
