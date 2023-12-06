@@ -23,3 +23,4 @@ weight = 20
 
 Ba, Heather K., & Coleman, Tyler. 2021. ["Deindustrialization and the Demand for Protection"](https://www.tyler-coleman.com/publication/bacoleman2021). _Business and Politics_, 23(2), 264-281. [doi:10.1017/bap.2020.17](https://doi.org/10.1017/bap.2020.17).
 
+Coleman, Tyler. 2023. "Antidumping Protectionism and Globalized Economies". Business and Politics. (Forthcoming)
