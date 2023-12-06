@@ -6,15 +6,15 @@ title: Tyler Coleman
 superuser: true
 
 # Role/position/tagline
-role: Political Science PhD Candidate
+role: Visiting Assistant Professor of Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Missouri
-  # url: https://www.missouri.edu
+- name: High Point University
+  # url: [https://www.highpoint.edu/]
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include international political economy, globalization and development, and the politics of protectionism.
+bio: My research interests include international political economy, globalization and development, and intrastate conflict.
 
 # Interests to show in About widget
 interests:
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Political Science
     institution: University of Missouri
-    year: 2023 (expected)
+    year: 2023 
   - course: B.S. in Political Science
     institution: Missouri Southern State University
     year: 2018
@@ -71,6 +71,6 @@ social:
 highlight_name: false
 ---
 
-I am a Political Science PhD Candidate at the Harry S Truman School of Government and Public Affairs. Before coming to the University of Missouri, I received my B.S. in Political Science from Missouri Southern State University. Professionally, my research interests include antidumping protectionism and globalization, with a side interest in foreign direct investment and civil wars. Much of my research focuses on the relationship between antidumping protectionism and globalization, with specific focus on international market volatility and how national integration within globalized markets influences demand for antidumping protectionism. In terms of my side interests, I am particularly interested in how the onset and duration of civil wars impact patterns of foreign direct investment flows across countries. 
+Hi! I am currently a Visiting Assistant Professor of Political Science at High Point University. Before coming to High Point, I received my Ph.D in Political Science at the University of Missouri and my B.S. in Political Science from Missouri Southern State University. Professionally, my research interests include antidumping protectionism and globalization, with a side interest in foreign direct investment and civil wars. Much of my research focuses on the relationship between antidumping protectionism and globalization, with specific focus on international market volatility and how national integration within globalized markets influences demand for antidumping protectionism. In terms of my side interests, I am particularly interested in how the onset and duration of civil wars impact patterns of foreign direct investment flows across countries. 
 
-To provide some non-academic context, I was born in a small town in Kansas called Richmond. Soon after, I moved to Joplin, a town located in Southwestern Missouri. While I was born in Kansas, I consider myself raised as a Missourian through-and-through. When I am not buried in documents about antidumping cases or other academic work, I can usually be found playing loud rock music on my guitar and taking a long walk on the beach in the evenings (in a land-locked state, of course). 
+To provide some non-academic context, I was born in a small town in Kansas called Richmond. Soon after, I moved to Joplin, a town located in Southwestern Missouri. While I was born in Kansas, I consider myself raised as a Missourian through-and-through. When I am not buried in documents about antidumping cases or other academic work, I can usually be found playing loud rock music on my guitar and taking a long walk on the beach in the evenings. 
